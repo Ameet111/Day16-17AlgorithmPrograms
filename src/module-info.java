@@ -1,2 +1,2 @@
-module com.bridgelab.algorithmprograms {
+module com.bridgelabz.algorithmprograms {
 }
